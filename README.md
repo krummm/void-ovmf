@@ -1,7 +1,7 @@
 # void-ovmf
 Short shell script to install OVMF on Void Linux
 ```
-Dependencies: wget zstd
+Dependencies: sudo wget zstd
 ```
 # Instructions
 ```
